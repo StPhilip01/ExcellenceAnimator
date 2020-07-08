@@ -1,7 +1,7 @@
 **README**
 ==========
 # **Excellence**
-Excellence Animation is a program that allows for creation of animations through standardized inputs. Excellence plays the given animation input with the specified viewing method. Users can set the initial speed, which defaults to 1 tick per second, and the output file, which defaults to System.out.
+Excellence Animator is a program that allows for creation of animations through standardized inputs. Excellence plays the given animation input with the specified viewing method. Users can set the initial speed, which defaults to 1 tick per second, and the output file, which defaults to System.out.
  * Views supported include: text, visual, svg, edit, svg-rotation
  * Extra Credit features: 
     * Scrubbing: Changes to EditorView only
